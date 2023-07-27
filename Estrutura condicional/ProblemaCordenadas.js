@@ -32,7 +32,7 @@ function buscarQuadrante(X,Y){
         var quadrante = 'Q2'
     }
 
-    return (console.log(quadrante))
+    return (console.log(quadrante));
 }
 
 
