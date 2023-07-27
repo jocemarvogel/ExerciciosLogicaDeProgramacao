@@ -11,3 +11,14 @@ Hora inicial: 0         O JOGO DUROU 24 HORA(S)
 Hora final: 0
 */
 
+function tempoJogo(horaInicial,horaFinal){
+    if (horaFinal>horaInicial){
+        var tempoDeJogo = horaFinal-horaInicial
+    } else {
+        var tempoDeJogo = (24-horaInicial)+horaFinal
+    }
+    
+    return(console.log(`O tempo de Jogo foi de ${tempoDeJogo} Horas`))
+}
+
+tempoJogo(0,0)
