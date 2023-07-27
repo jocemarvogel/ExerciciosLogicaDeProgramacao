@@ -6,8 +6,10 @@ círculo com três casas decimais. A fórmula da área do círculo é a seguinte
 usar o valor de 𝜋 fornecido pela biblioteca da sua linguagem de programação, ou então, se preferir, use 
 diretamente o valor 3.14159. 
 
-SAIDA:
+ENTRADA:
 Digite o valor do raio do circulo: 2.0
+
+SAIDA:
 AREA = 12.566 
 */
 

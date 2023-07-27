@@ -3,10 +3,12 @@ Fazer um programa para ler o nome de um(a) funcionário(a), o valor que ele(a) r
 quantidade de horas trabalhadas por ele(a). Ao final, mostrar o valor do pagamento do funcionário com 
 uma mensagem explicativa, conforme exemplo. 
 
-SAIDA:
+ENTRADA
 Nome: Joao Silva
 Valor por hora: 50.00
 Horas trabalhadas: 60
+
+SAIDA:
 O pagamento para Joao Silva deve ser 3000.00 
 */
 

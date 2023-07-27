@@ -4,10 +4,12 @@ casa decimal, bem como o valor do metro quadrado do terreno com duas casas decim
 o programa deve mostrar o valor da área do terreno, bem como o valor do preço do terreno, ambos com 
 duas casas decimais, conforme exemplo.
 
-Sainda:
+ENTRADAS
 Digite a largura do terreno: 10.0
 Digite o comprimento do terreno: 30.0
 Digite o valor do metro quadrado: 200.00
+
+SAIDAS:
 Area do terreno = 300.00 
 Preco do terreno = 60000.00 
 */

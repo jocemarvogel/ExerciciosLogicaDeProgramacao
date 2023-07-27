@@ -2,11 +2,16 @@
 Fazer um programa para ler uma duração de tempo em segundos, daí imprimir na tela esta duração no 
 formato horas:minutos:segundos. 
 
-SAIDA: 
+ENTRADA:
 Digite a duracao em segundos: 300
+
+SAIDA:
 0:5:0 
 
+ENTRADA:
 Digite a duracao em segundos: 12506
+
+SAIDA:
 3:28:26
 */
 

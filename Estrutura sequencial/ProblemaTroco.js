@@ -4,10 +4,12 @@ O programa deve ler o preço unitário do produto, a quantidade de unidades comp
 e o valor em dinheiro dado pelo cliente (suponha que haja dinheiro suficiente). Seu programa deve 
 mostrar o valor do troco a ser devolvido ao cliente. 
 
-SAIDAS:
+ENTRADAS:
 Preço unitário do produto: 8.00
 Quantidade comprada: 2
 Dinheiro recebido: 20.00
+
+SAIDAS:
 TROCO = 4.00
 */
 
