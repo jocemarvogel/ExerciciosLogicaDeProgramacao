@@ -14,7 +14,6 @@ ENTRADA:            SAIDA:
 
 function multiplos(a,b){
 
-
     if ((a % 2 == 0) || (b % 2 == 0)){
       return console.log(`${a} e ${b} são multiplos`)
     } else if ((a % 2 == 1) && (b % 2 == 1)){
